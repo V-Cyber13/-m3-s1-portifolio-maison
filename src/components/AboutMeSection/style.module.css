@@ -1,0 +1,15 @@
+.aboutSection {
+    display: flex;
+  
+    margin-bottom: 100px;
+  }
+  
+  .aboutTitle {
+    width: 30%;
+  }
+  
+  .aboutParagraph {
+    width: 70%;
+    font-weight: 400;
+    line-height: 30px;
+  }

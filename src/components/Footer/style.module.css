@@ -1,0 +1,27 @@
+.footer {
+    border-top: 2px solid var(--color-white);
+    border-bottom: 2px solid var(--color-white);
+    position: relative;
+  }
+  
+  .itemContainer {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 30%;
+    height: 100%;
+  }
+  
+  .listContainer {
+    display: flex;
+    gap: 15px;
+  }
+  
+  .itemTitle {
+    margin-bottom: 20px;
+  }
+  
+  .itemParagraph {
+    position: absolute;
+    right: 2px;
+    top: 90px;
+  }

@@ -1,0 +1,36 @@
+.button {
+    color: #ffffff;
+    background-color: #ffffff;
+  
+    border: none;
+    border-radius: 12px;
+  
+    width: 110px;
+    height: 40px;
+  
+    font-family: #ffffff;
+    font-size: 0.875rem;
+    font-weight: 600;
+  
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background-color: var(--color-primary-hover);
+  }
+  
+  .navButton {
+    color: var(--color-white);
+    background-color: var(--background);
+  
+    border: none;
+  
+    width: 130px;
+    height: 40px;
+  
+    font-family: var(--font-primary);
+    font-size: 0.875rem;
+    font-weight: 600;
+  
+    cursor: pointer;
+  }

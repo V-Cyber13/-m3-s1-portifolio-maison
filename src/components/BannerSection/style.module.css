@@ -1,0 +1,29 @@
+.bannerSection {
+    display: flex;
+    width: 882.72px;
+    height: 277.1px;
+    top: 154px;
+    left: 272px;
+    border-radius: 12px;
+    border: 1px;
+    margin-bottom: 100px;
+  }
+  
+  .bannerContainer {
+    display: flex;
+    flex-direction: column;
+    width: 320px;
+    height: 277px;
+    top: 154px;
+    left: 272px;
+    border-radius: 12px;
+    border: 1px;
+    gap: 35px;
+  }
+  
+  .bannerImg {
+    width: 437.79px;
+    height: 265.66px;
+    top: 165.44px;
+    left: 716.93px;
+  }

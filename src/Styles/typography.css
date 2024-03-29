@@ -1,0 +1,56 @@
+.title1 {
+    color: #ffffff;
+  
+    font-family: var(--font-primary);
+    font-size: 3rem;
+    font-weight: 700;
+  }
+  
+  .title2 {
+    color: #ffffff;
+  
+    font-family: var(--font-primary);
+    font-size: 2.5rem;
+    font-weight: 700;
+  }
+  
+  .title3 {
+    color: #ffffff;
+  
+    font-family: var(--font-primary);
+    font-size: 1.375rem;
+    font-weight: 700;
+  }
+  
+  .label {
+    color:  #ffffff;
+  
+    font-family: var(--font-primary);
+    font-size: 0.875rem;
+    font-weight: 400;
+  }
+  
+  .link {
+    color:  #ffffff;
+  
+    font-family: var(--font-primary);
+    font-size: 1rem;
+    font-weight: 700;
+  
+    text-decoration: none;
+  
+    cursor: pointer;
+  }
+  
+  .link:hover {
+    color: #ffffff;
+  
+    text-decoration: underline;
+  }
+  
+  .paragraph {
+    color: #ffffff;
+    font-family: var(--font-primary);
+    font-size: 1rem;
+    font-weight: 400;
+  }

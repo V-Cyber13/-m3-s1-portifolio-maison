@@ -1,0 +1,28 @@
+.listContainer {
+    margin-top: 30px;
+    margin-bottom: 65px;
+    gap: 30px 50px;
+  
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .listItem {
+    width: 476px;
+    height: 183px;
+    border-radius: 25px;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+  
+    display: flex;
+    flex-direction: row;
+    position: relative;
+  }
+  
+  .listItem > img {
+    width: 37px;
+    height: 38px;
+    right: 1.3125rem;
+    top: 1rem;
+  
+    position: absolute;
+  }

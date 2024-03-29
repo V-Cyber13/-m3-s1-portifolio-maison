@@ -1,0 +1,39 @@
+.button {
+    color: #ffffff;
+    background-color:rgb(124, 97, 243);
+  
+    border: none;
+    border-radius: 12px;
+  
+    width: 114px;
+    height: 39px;
+  
+    font-family: var(--font-primary);
+    font-size: 0.875rem;
+    font-weight: 600;
+  
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background-color: rgb(40, 53, 226);
+  }
+  
+  .navButton {
+    color: #ffffff;
+    background-color: rgb(124, 97, 243);
+  
+    border: 1px;
+    border-radius: 12px;
+
+    margin: 9px;
+  
+    width: 130px;
+    height: 40px;
+  
+    font-family: var(--font-primary);
+    font-size: 0.875rem;
+    font-weight: 600;
+  
+    cursor: pointer;
+  }
